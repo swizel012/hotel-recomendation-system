@@ -32,6 +32,14 @@ Trained on: [Tripadvisor Hotel Reviews Dataset]
 ---
 
 ## 🧪 Hybrid Sentiment Calculation
-
-```python
 sentiment_score = 0.7 * ml_score + 0.3 * lexicon_score
+
+## ▶️Setup
+Run the Flask App
+Place your hotel Excel dataset (e.g., hotel_data.xlsx) in the root folder.
+
+Start the server:
+bash- py app.py
+Visit: http://127.0.0.1:5000/
+
+---
