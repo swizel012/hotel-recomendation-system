@@ -3,8 +3,9 @@
 This project combines a **deep learning-based sentiment classifier** with a **Flask web application** to recommend hotels based on **user-selected amenities** and **review sentiment scores**. It uses both **machine learning (CNN)** and **lexicon-based (TextBlob + NLTK)** approaches to generate more reliable sentiment predictions for better hotel recommendations.
 
 ---
+![Animation Preview](animation3.gif)  
 
-## 🚀 Features
+
 
 ### 💡 Sentiment Analysis
 - CNN-based multi-class classifier (positive, neutral, negative)
